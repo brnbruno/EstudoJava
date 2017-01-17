@@ -1,0 +1,5 @@
+	/*Para Compilar no java
+	  utilizamos o comonda no terminal:
+	  javac nome_do_codigo_fonte.java
+	  para rodar:
+	  java nome_do_programa*/
